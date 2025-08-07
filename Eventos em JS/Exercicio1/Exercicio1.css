@@ -1,0 +1,10 @@
+.butao{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+h4{
+    display: flex;
+    justify-content: center;
+    font-weight: bold;
+}
