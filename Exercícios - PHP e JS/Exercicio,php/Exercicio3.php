@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exercicio3</title>
+</head>
+<body>
+    <?php
+    $nome = "Nicholas";
+    $sobrenome = "Marinho";
+
+    echo "Eu sou o " . $nome . " " . $sobrenome;
+    ?>
+</body>
+</html>
